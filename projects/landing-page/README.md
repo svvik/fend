@@ -1,13 +1,39 @@
-# Landing Page Project
+---
+
+# Project Title
+
+Landing Page
+
+---
+
+## Project Description
+
+Landing Page project is a multi-section page, where were implemented features which are anable dynamically add the content to the page and dynamically build the navigation. Also, for a better user experience, the section is differentiated from rest sections while it actively being viewed. Additionally, when a clicks on a navigation item is happened, the item smoothly scroll to the appropriate section.
+
+---
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+Project **content**:
 
-## Instructions
+- index.html
+- css
+  - styles.css
+- js
+  - app.js
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+---
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Installation
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+Clone or Download repository and then open index.html file in your Browser
+
+---
+
+## Credits
+
+For this project the start code was provided by [Udacity](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
